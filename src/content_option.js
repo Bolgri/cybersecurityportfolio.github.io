@@ -1,43 +1,39 @@
-const logotext = "{Initials Here}";
+const logotext = "Seungwoo Cheon Portfolio";
 const meta = {
-    title: "{Your name}",
-    description: "I'm {Your name}, a technologist and cybersecurity enthuist.",
+    title: "Seungwoo Cheon Portfolio",
+    description: "안녕하세요. 신입 프론트엔드 개발자 천승우입니다.",
 };
 
 const introdata = {
-    title: "Hi, I'm {Your Name}",
+    title: "안녕하세요, 천승우입니다.",
     animated: {
-        first: "Technologist",
-        second: "Visionary",
-        third: "Ethical Hacker",
-        fourth: "Programmer",
-        fifth: "Malware Developer",
-        sixth: "Analyst",
+        first: "프론트엔드 개발자",
+        second: "AI 엔지니어",
+        third: "프로젝트 매니저",
+        fourth: "퍼블리셔",
+        fifth: "한영 번역가",
+        // sixth: "",
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
-    description: "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
-    your_img_url: "E:/git/portfolio/phoneticsbug/public/profile.png",
+    description: "UI/UX경험을 중시하는 프론트엔드 개발자입니다.",
+    your_img_url: "https://github.com/PhoneticsBug/cybersecurity-portfolio-webpage/blob/main/public/profile.png?raw=true",
 };
 
 const dataabout = {
     title: "Who am I?",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    aboutme: "계명대학교 영어영문학과 학사(2016.03~2023.02), 대한민국 육군 만기전역ㅇ(2016.07~2018.04)",
 };
 const worktimeline = [{
-        jobtitle: "Example 1",
-        where: "Google",
-        date: "2023",
+        jobtitle: "교육",
+        where: "KT AIVLE School AI 개발자 교육 3기",
+        date: "2023.01~2023.07",
     },
     {
-        jobtitle: "Example 2",
-        where: "Micosoft",
-        date: "2022",
+        jobtitle: "공모전",
+        where: "광진구 빅데이터 공모전",
+        date: "2023.03~2023.05",
     },
-    {
-        jobtitle: "Example 3",
-        where: "Meta",
-        date: "2021",
-    },
+
 ];
 
 const skills = [{
@@ -45,11 +41,11 @@ const skills = [{
     },
     
     {
-        name: "C",
+        name: "JavaScript",
     },
     
     {
-        name: "Java",
+        name: "Figma",
     },
     
     {
@@ -61,68 +57,80 @@ const skills = [{
     },
 
     {
-        name: "Reverse Engineering",
+        name: "MySQL",
     },
 
     {
-        name: "Web-Exploitation",
+        name: "HTML5",
     },
 
     {
-        name: "Network Exploitation",
+        name: "CSS3",
+    },
+
+    {
+        name: "Photoshop",
+    },
+
+    {
+        name: "Lightroom",
+    },
+
+    {
+        name: "Praat",
     },
 ];
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "KT AIVLE School 미니 프로젝트 1",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "KT AIVLE School 미니 프로젝트 2",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "KT AIVLE School 미니 프로젝트 3",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "KT AIVLE School 미니 프로젝트 4",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "KT AIVLE School 미니 프로젝트 5",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "KT AIVLE School 미니 프로젝트 6",
         link: "#",
     },
 
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "KT AIVLE School 미니 프로젝트 7",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "KT AIVLE School 빅 프로젝트",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "광진구 빅데이터 공모전",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://github.com/PhoneticsBug/wanted-pre-onboarding-frontend/blob/main/public/video_preview.jpg?raw=true",
+        description: "WANTED 프론트엔드 프리온보딩 일정관리 웹서비스 제작 프로젝트",
+        link: "https://github.com/PhoneticsBug/wanted-pre-onboarding-frontend",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
@@ -137,7 +145,7 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "test@test.com",
+    YOUR_EMAIL: "swwe1000@gmail.com",
     description: "Looking forward to hearing from you!",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
@@ -147,7 +155,7 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com/",
+    github: "https://github.com/PhoneticsBug",
     linkedin: "https://linkedin.com/",
 };
 export {
