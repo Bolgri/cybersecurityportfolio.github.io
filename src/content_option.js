@@ -16,7 +16,7 @@ const introdata = {
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
     description: "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
-    your_img_url: "https://i.ibb.co/wRjcnGL/me.jpg",
+    your_img_url: "E:/git/portfolio/phoneticsbug/public/profile.png",
 };
 
 const dataabout = {
