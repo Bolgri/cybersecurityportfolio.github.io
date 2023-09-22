@@ -153,7 +153,7 @@ const contactConfig = {
     description: "Looking forward to hearing from you!",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "SERVICE_ID",
+    YOUR_SERVICE_ID: "swwe1000",
     YOUR_TEMPLATE_ID: "TEMPLATE_ID",
     YOUR_USER_ID: "USER_ID (PUBLIC_KEY)",
 };
