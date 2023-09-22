@@ -153,9 +153,9 @@ const contactConfig = {
     description: "Looking forward to hearing from you!",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "swwe1000",
-    YOUR_TEMPLATE_ID: "template_7ukl3mm",
-    YOUR_USER_ID: "83JbPmsyoMvlUMtgp",
+    YOUR_SERVICE_ID: "service_swcheon", // SERVICE_ID
+    YOUR_TEMPLATE_ID: "template_7ukl3mm", //TEMPLATE_ID
+    YOUR_USER_ID: "83JbPmsyoMvlUMtgp", // PUBLIC_KEY
 };
 
 const socialprofils = {
