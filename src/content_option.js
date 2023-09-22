@@ -160,7 +160,7 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/PhoneticsBug",
-    linkedin: "https://linkedin.com/",
+    linkedin: "https://www.linkedin.com/in/iliya-cheon-948002285/",
 };
 export {
     meta,
