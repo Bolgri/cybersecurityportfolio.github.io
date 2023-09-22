@@ -132,7 +132,7 @@ const dataportfolio = [{
         link: "#",
     },
     {
-        img: "https://github.com/PhoneticsBug/wanted-pre-onboarding-frontend/blob/main/public/video_preview.jpg?raw=true",
+        img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/preonboarding.jpg?raw=true",
         description: "WANTED 프론트엔드 프리온보딩 일정관리 웹서비스 제작 프로젝트",
         link: "https://github.com/PhoneticsBug/wanted-pre-onboarding-frontend",
     },
