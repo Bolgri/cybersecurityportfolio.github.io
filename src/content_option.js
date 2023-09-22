@@ -88,32 +88,32 @@ const skills = [{
 const dataportfolio = [{
         img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/mini1.jpg?raw=true",
         description: "KT AIVLE School 미니 프로젝트 1",
-        link: "#",
+        link: "https://github.com/PhoneticsBug/ktAivle/tree/main/1%EC%B0%A8",
     },
     {
         img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/mini2.jpg?raw=true",
         description: "KT AIVLE School 미니 프로젝트 2",
-        link: "#",
+        link: "https://github.com/PhoneticsBug/ktAivle/tree/main/2%EC%B0%A8",
     },
     {
         img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/mini3.jpg?raw=true",
         description: "KT AIVLE School 미니 프로젝트 3",
-        link: "#",
+        link: "https://github.com/PhoneticsBug/ktAivle/tree/main/3%EC%B0%A8",
     },
     {
         img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/mini4.jpg?raw=true",
         description: "KT AIVLE School 미니 프로젝트 4",
-        link: "#",
+        link: "https://github.com/PhoneticsBug/ktAivle/tree/main/4%EC%B0%A8",
     },
     {
         img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/mini5.jpg?raw=true",
         description: "KT AIVLE School 미니 프로젝트 5",
-        link: "#",
+        link: "https://github.com/PhoneticsBug/ktAivle/tree/main/5%EC%B0%A8",
     },
     {
         img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/mini6.jpg?raw=true",
         description: "KT AIVLE School 미니 프로젝트 6",
-        link: "#",
+        link: "https://github.com/PhoneticsBug/ktAivle/tree/main/6%EC%B0%A8",
     },
 
     {
