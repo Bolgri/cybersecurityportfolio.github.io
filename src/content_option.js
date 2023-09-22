@@ -137,12 +137,12 @@ const dataportfolio = [{
         link: "https://github.com/PhoneticsBug/wanted-pre-onboarding-frontend",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
+        img: "",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
