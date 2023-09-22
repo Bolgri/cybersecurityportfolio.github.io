@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/sw_portpolio/static/css/main.6b9b6197.css",
-    "main.js": "/sw_portpolio/static/js/main.1ee1333b.js",
+    "main.js": "/sw_portpolio/static/js/main.065b9082.js",
     "index.html": "/sw_portpolio/index.html"
   },
   "entrypoints": [
     "static/css/main.6b9b6197.css",
-    "static/js/main.1ee1333b.js"
+    "static/js/main.065b9082.js"
   ]
 }
