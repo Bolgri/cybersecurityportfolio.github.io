@@ -86,48 +86,48 @@ const skills = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/mini1.jpg?raw=true",
         description: "KT AIVLE School 미니 프로젝트 1",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
+        img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/mini2.jpg?raw=true",
         description: "KT AIVLE School 미니 프로젝트 2",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/mini3.jpg?raw=true",
         description: "KT AIVLE School 미니 프로젝트 3",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/mini4.jpg?raw=true",
         description: "KT AIVLE School 미니 프로젝트 4",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
+        img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/mini5.jpg?raw=true",
         description: "KT AIVLE School 미니 프로젝트 5",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
+        img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/mini6.jpg?raw=true",
         description: "KT AIVLE School 미니 프로젝트 6",
         link: "#",
     },
 
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/mini7.jpg?raw=true",
         description: "KT AIVLE School 미니 프로젝트 7",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
+        img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/big.jpg?raw=true",
         description: "KT AIVLE School 빅 프로젝트",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/kwangjin.png?raw=true",
         description: "광진구 빅데이터 공모전",
         link: "#",
     },
