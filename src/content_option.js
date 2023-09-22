@@ -5,7 +5,7 @@ const meta = {
 };
 
 const introdata = {
-    title: "안녕하세요, 천승우입니다.",
+    title: "안녕하세요, 저는",
     animated: {
         first: "프론트엔드 개발자",
         second: "AI 엔지니어",
@@ -15,14 +15,18 @@ const introdata = {
         // sixth: "",
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
+    title_end: "입니다.",
     description: "UI/UX경험을 중시하는 프론트엔드 개발자입니다.",
     your_img_url: "https://github.com/PhoneticsBug/cybersecurity-portfolio-webpage/blob/main/public/profile.png?raw=true",
 };
 
 const dataabout = {
     title: "Who am I?",
-    aboutme: "계명대학교 영어영문학과 학사(2016.03~2023.02), 대한민국 육군 만기전역ㅇ(2016.07~2018.04)",
-};
+    aboutme: [
+      "- 계명대학교 영어영문학과 학사(2016.03~2023.02)",
+      "- 대한민국 육군 만기전역 (2016.07~2018.04)"
+    ]
+  };
 const worktimeline = [{
         jobtitle: "교육",
         where: "KT AIVLE School AI 개발자 교육 3기",

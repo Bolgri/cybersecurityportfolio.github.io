@@ -9,6 +9,16 @@ import {
   skills,
 } from "../../content_option";
 
+const AboutmeContent = () => {
+  return (
+    <div>
+    {dataabout.aboutme.map((item, index) => (
+      <p key={index}>{item}</p>
+    ))}
+  </div>
+  )
+}
+
 export const About = () => {
   return (
     <HelmetProvider>
@@ -30,7 +40,7 @@ export const About = () => {
           </Col>
           <Col lg="7" className="d-flex align-items-center">
             <div>
-              <p>{dataabout.aboutme}</p>
+              <AboutmeContent/>
             </div>
           </Col>
         </Row>
