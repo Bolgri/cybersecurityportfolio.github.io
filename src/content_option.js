@@ -119,17 +119,17 @@ const dataportfolio = [{
     {
         img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/mini7.jpg?raw=true",
         description: "KT AIVLE School 미니 프로젝트 7",
-        link: "#",
+        link: "https://github.com/PhoneticsBug/ktAivle/tree/main/7%EC%B0%A8",
     },
     {
         img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/big.jpg?raw=true",
         description: "KT AIVLE School 빅 프로젝트",
-        link: "#",
+        link: "https://github.com/PhoneticsBug/ktAivle/tree/main/%EB%B9%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8",
     },
     {
         img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/kwangjin.png?raw=true",
         description: "광진구 빅데이터 공모전",
-        link: "#",
+        link: "https://github.com/PhoneticsBug/ktAivle/tree/main/%EA%B4%91%EC%A7%84%EA%B5%AC",
     },
     {
         img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/preonboarding.jpg?raw=true",
