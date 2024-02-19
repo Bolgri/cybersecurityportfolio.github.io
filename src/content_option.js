@@ -27,7 +27,13 @@ const dataabout = {
       "- 대한민국 육군 만기전역 (2016.07~2018.04)"
     ]
   };
-const worktimeline = [{
+const worktimeline = [
+    {
+        jobtitle: "교육",
+        where: "WANTED FRONTEND Preonboarding",
+        date: "2023.09~2023.11",
+    },
+    {
         jobtitle: "교육",
         where: "KT AIVLE School AI 개발자 교육 3기",
         date: "2023.01~2023.07",
@@ -137,8 +143,8 @@ const dataportfolio = [{
         link: "https://github.com/PhoneticsBug/wanted-pre-onboarding-frontend",
     },
     {
-        img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/upcoming.jpg?raw=true",
-        description: "upcoming...",
+        img: "https://www.notion.so/oneull/while-True-1d396a8e98fc48368ad346d8b590aae0",
+        description: "while True: 알고리즘 스터디",
         link: "#",
     },
     {
