@@ -43,6 +43,11 @@ const worktimeline = [
         where: "광진구 빅데이터 공모전",
         date: "2023.03~2023.05",
     },
+    {
+        jobtitle: "류황별의 종이공방",
+        where: "Youtube, 영상 한영 자막 제작",
+        date: "2020.01~",
+    },
 
 ];
 
@@ -146,6 +151,21 @@ const dataportfolio = [{
         img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/project%20logo/study_logo.jpg?raw=true",
         description: "while True: 알고리즘 스터디",
         link: "https://www.notion.so/oneull/while-True-1d396a8e98fc48368ad346d8b590aae0",
+    },
+    {
+        img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/upcoming.jpg?raw=true",
+        description: "upcoming...",
+        link: "#",
+    },
+    {
+        img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/upcoming.jpg?raw=true",
+        description: "upcoming...",
+        link: "#",
+    },
+    {
+        img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/upcoming.jpg?raw=true",
+        description: "upcoming...",
+        link: "#",
     },
     {
         img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/upcoming.jpg?raw=true",
