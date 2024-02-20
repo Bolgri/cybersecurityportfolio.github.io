@@ -1,19 +1,11 @@
 {
   "files": {
     "main.css": "/sw_portpolio/static/css/main.6b9b6197.css",
-<<<<<<< HEAD
-    "main.js": "/sw_portpolio/static/js/main.7a00f3d7.js",
-=======
-    "main.js": "/sw_portpolio/static/js/main.3c40071e.js",
->>>>>>> 0ee7bb805521cdf1d7023835991f740ee2b24f64
+    "main.js": "/sw_portpolio/static/js/main.0f2e41c6.js",
     "index.html": "/sw_portpolio/index.html"
   },
   "entrypoints": [
     "static/css/main.6b9b6197.css",
-<<<<<<< HEAD
-    "static/js/main.7a00f3d7.js"
-=======
-    "static/js/main.3c40071e.js"
->>>>>>> 0ee7bb805521cdf1d7023835991f740ee2b24f64
+    "static/js/main.0f2e41c6.js"
   ]
 }
