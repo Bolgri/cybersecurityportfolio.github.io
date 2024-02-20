@@ -181,11 +181,6 @@ const dataportfolio = [{
         description: "upcoming...",
         link: "#",
     },
-    {
-        img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/upcoming.jpg?raw=true",
-        description: "upcoming...",
-        link: "#",
-    },
 ];
 
 const contactConfig = {
