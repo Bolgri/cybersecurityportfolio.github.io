@@ -23,11 +23,20 @@ const introdata = {
 const dataabout = {
     title: "Who am I?",
     aboutme: [
-      "- 계명대학교 영어영문학과 학사 (2016.03~2023.02)",
-      "- 대한민국 육군 만기전역 (2016.07~2018.04)"
+      "안녕하세요. 신입 프론트엔드 및 AI 개발자 천승우입니다.",
+      "- Custom Hook을 이용한 Todo 프로젝트를 제작 후, Github ghpages를 통한 배포 경험이 있습니다.",
+      "- <오프라인 서재 기반 통합 서재 관리 서비스> 프로젝트에서 UI/UX 설계와 프론트엔드 역할을 맡아 자연스러운 사용자 경험을 유도했습니다.",
+      "- AWS ec2를 통한 백엔드 서버 관리와 MySQL을 통한 데이터 관리 경험이 있습니다.",
+      "- 데이터 EDA와 sklearn, Tensorflow를 이용한 AI 모델링을 해본 경험이 있습니다."
+
     ]
   };
 const worktimeline = [
+    {
+        jobtitle: "류황별의 종이공방",
+        where: "Youtube, 영상 한영 자막 제작",
+        date: "2020.01~",
+    },
     {
         jobtitle: "교육",
         where: "WANTED FRONTEND Preonboarding",
@@ -44,9 +53,14 @@ const worktimeline = [
         date: "2023.03~2023.05",
     },
     {
-        jobtitle: "류황별의 종이공방",
-        where: "Youtube, 영상 한영 자막 제작",
-        date: "2020.01~",
+        jobtitle: "병역",
+        where: "대한민국 육군 만기전역",
+        date: "2016.07~2018.04",
+    },
+    {
+        jobtitle: "학력",
+        where: "영어영문학과 학사",
+        date: "2016.03~2023.02",
     },
 
 ];
