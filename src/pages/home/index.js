@@ -37,7 +37,7 @@ export const Home = () => {
                       ],
                       autoStart: true,
                       loop: true,
-                      deleteSpeed: 10,
+                      deleteSpeed: 1,
                     }}
                   />
                   <il style={{"color":"black"}}> 천승우 입니다. </il>
