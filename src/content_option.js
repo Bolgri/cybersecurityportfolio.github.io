@@ -185,7 +185,7 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "swwe1000@gmail.com",
-    description: "Looking forward to hearing from you!",
+    description: "According to the issue of content provider, form next to this text does not work. Please send E-mail directly instead.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_swcheon", // SERVICE_ID
