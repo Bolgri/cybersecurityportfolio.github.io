@@ -162,7 +162,7 @@ const dataportfolio = [{
         link: "https://github.com/PhoneticsBug/wanted-pre-onboarding-frontend",
     },
     {
-        img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/project%20logo/study_logo.jpg?raw=true",
+        img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/study_logo.jpg?raw=true",
         description: "while True: 알고리즘 스터디",
         link: "https://www.notion.so/oneull/while-True-1d396a8e98fc48368ad346d8b590aae0",
     },
