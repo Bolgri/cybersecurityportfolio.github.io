@@ -24,18 +24,29 @@ const dataabout = {
     title: "Who am I?",
     aboutme: [
       "안녕하세요. 신입 프론트엔드 및 AI 개발자 천승우입니다.",
-      "- Custom Hook을 이용한 Todo 프로젝트를 제작 후, Github ghpages를 통한 배포 경험이 있습니다.",
-      "- <오프라인 서재 기반 통합 서재 관리 서비스> 프로젝트에서 UI/UX 설계와 프론트엔드 역할을 맡아 자연스러운 사용자 경험을 유도했습니다.",
-      "- AWS ec2를 통한 백엔드 서버 관리와 MySQL을 통한 데이터 관리 경험이 있습니다.",
-      "- 데이터 EDA와 sklearn, Tensorflow를 이용한 AI 모델링을 해본 경험이 있습니다."
+      "- React를 통한 유지보수성이 높은 개발을 지향합니다.",
+      "- 팀프로젝트를 통한 배포/유지보수 경험과 gh-pages를 통한 배포 경험이 있습니다.",
+      "- AI 기반 웹 프로젝트에서 AI제작 참여 및 UI/UX, 프론트엔드 직무를 리드한 경험이 있습니다.",
+      "- Figma, github를 통한 프로젝트 관리 및 기획 경험이 있습니다.",
+      "- Tensorflow, sklearn 등 Python 기반 EDA 및 AI 모델 제작 경험이 있습니다."
 
     ]
   };
 const worktimeline = [
     {
+        jobtitle: "학력",
+        where: "영어영문학과 학사",
+        date: "2016.03~2023.02",
+    },
+    {
         jobtitle: "류황별의 종이공방",
         where: "Youtube, 영상 한영 자막 제작",
         date: "2020.01~",
+    },
+    {
+        jobtitle: "자격",
+        where: "TOEIC 950",
+        date: "2022.11",
     },
     {
         jobtitle: "교육",
@@ -58,9 +69,14 @@ const worktimeline = [
         date: "2016.07~2018.04",
     },
     {
-        jobtitle: "학력",
-        where: "영어영문학과 학사",
-        date: "2016.03~2023.02",
+        jobtitle: "자격",
+        where: "oPIC AL",
+        date: "2023.08",
+    },
+    {
+        jobtitle: "자격",
+        where: "정보처리기사 (필기)",
+        date: "2024.02",
     },
 
 ];
