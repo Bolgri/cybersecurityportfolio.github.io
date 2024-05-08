@@ -167,14 +167,14 @@ const dataportfolio = [{
         link: "https://www.notion.so/oneull/while-True-1d396a8e98fc48368ad346d8b590aae0",
     },
     {
-        img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/pubkuc/project%20logo/ill_search.jpg?raw=true",
+        img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/ill_search.jpg?raw=true",
         description: "국내 모든 임상시험 검색하고 온라인으로 참여하기",
         link: "https://github.com/PhoneticsBug/assignment-1?tab=readme-ov-file",
     },
     {
-        img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/upcoming.jpg?raw=true",
-        description: "upcoming...",
-        link: "#",
+        img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/nomad_clone.jpg?raw=true",
+        description: "React Recap (with Nomad Coders)",
+        link: "https://phoneticsbug.github.io/nomad_clones/",
     },
     {
         img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/upcoming.jpg?raw=true",
