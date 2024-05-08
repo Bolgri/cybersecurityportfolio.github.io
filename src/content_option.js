@@ -174,7 +174,7 @@ const dataportfolio = [{
     {
         img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/nomad_clone.jpg?raw=true",
         description: "React Recap (with Nomad Coders)",
-        link: "https://phoneticsbug.github.io/nomad_clones/",
+        link: "https://github.com/PhoneticsBug/nomad_clones/blob/main/README.md",
     },
     {
         img: "https://github.com/PhoneticsBug/sw_portpolio/blob/main/public/project%20logo/upcoming.jpg?raw=true",
